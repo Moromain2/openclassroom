@@ -1,0 +1,29 @@
+* {
+  font-family: sans-serif;
+}
+
+p, ul, li {
+  font-size: 16px;
+}
+
+p {
+  font-style: italic;
+  text-align: justify;
+}
+
+.flottant {
+  float: left;
+}
+
+h1 {
+  border-bottom: 1px solid grey;
+  box-shadow: 6px 6px 6px grey;
+}
+
+a:hover {
+  color:orange;
+}
+
+a:visited {
+  color: green;
+}
